@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Rosalyn Amondi Ajigoh — Portfolio
 
 Professional portfolio website for Rosalyn Amondi Ajigoh, a full-stack software engineer.
